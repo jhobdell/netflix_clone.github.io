@@ -41,7 +41,7 @@ img {
     width: 100%;
     height: 93vh;
     position: relative;
-    background: url('../img/background.jpg') no-repeat center center/cover;
+    background: url('https://github.com/jhobdell/netflix_clone.github.io/blob/main/img/background.jpg') no-repeat center center/cover;
 }
 
 .showcase::after {
